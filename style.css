@@ -11,3 +11,19 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.navbar {
+    animation: navbar-scroll linear both;
+    animation-timeline: scroll();
+    animation-range: 0 100px;
+}
+
+@keyframes navbar-scroll {
+    from {
+        background-color: transparent;
+    }
+    to {
+        background-color: rgba(0, 0, 0, 0.596);
+        backdrop-filter: blur(10px);
+    }
+}
