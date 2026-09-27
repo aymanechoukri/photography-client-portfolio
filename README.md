@@ -1,6 +1,6 @@
-# Oussama Kajja Portfolio
+# Oussama Kajja Photography & Videography
 
-A responsive photography portfolio for Oussama Kajja, focused on portraits, weddings, editorials, travel stories, and visual storytelling.
+A responsive photography and videography portfolio for Oussama Kajja, focused on portraits, weddings, editorials, travel stories, and visual storytelling.
 
 ## Features
 
